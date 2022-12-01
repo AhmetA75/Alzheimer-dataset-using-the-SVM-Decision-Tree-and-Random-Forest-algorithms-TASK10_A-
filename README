@@ -1,0 +1,6 @@
+TASK-10A: Please model the AD dataset using the SVM, Decision Tree, and Random Forest algorithms.
+
+●	Please apply train test split (%75-%25)
+●	Then grid search (hyperparameter tuning)
+●	Then classification report and confusion matrix (on the test dataset)
+●	Then compare the findings from the three algorithms
